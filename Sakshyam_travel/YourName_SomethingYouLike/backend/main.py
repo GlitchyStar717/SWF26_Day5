@@ -65,7 +65,7 @@ async def register_user(user: UserRegister):
     return {"message": "User registered successfully", "username": user.username}
     # Implementation with validation
 
-#hello there heer is the new change
+
 
 # Assignment: Implement the login functionality.
 # Create a POST endpoint "/login" that checks if the username and password match any user in the database.
